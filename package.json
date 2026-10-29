@@ -1,0 +1,20 @@
+{
+  "name": "red-contrib-taiponrock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node..js",
+  "node-red": {
+  "nodes": {
+  "lower-case": "node.js"
+  }
+  },
+
+  "scripts": {
+    "test": "NO input required"
+  },
+  "keywords": [
+    "keywords"
+  ],
+  "author": "npm account",
+  "license": "ISC"
+}
